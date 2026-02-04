@@ -1,1 +1,1 @@
-# Laboratorios de Pensamiento Computacional
+# Laboratorios de Pensamiento Computacional.
